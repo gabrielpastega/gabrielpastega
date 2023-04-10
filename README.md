@@ -5,7 +5,7 @@
 
 - 📫 You can reach me via my e-mail [gabrielpbreis@gmail.com](gabrielpbreis@gmail.com)
 
-- 🧰 I have experience with **Python, SQL and Excel**
+- 🧰 I have experience with **Python, Machine Learning, SQL and Excel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
