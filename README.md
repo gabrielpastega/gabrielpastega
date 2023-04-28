@@ -1,5 +1,5 @@
 <h2 align="center">Hey 👋! My name is Gabriel and this is my Data Science repository!</h2>
-- 🔭 I’m currently learning **Machine Learning and SQL**
+- 🔭 I’m currently learning **NLP**
 
 - 🌱 I’m looking to improve and expand my skill set **in working with data science projects**
 
